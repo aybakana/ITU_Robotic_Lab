@@ -8,7 +8,9 @@ Because manifold affects GPS sensors badly.
 # How to install DJI OSDK ?
 - Open a terminal, cd into the onboardsdk folder and follow these steps to build the core OSDK library
 > mkdir build
+
 > cd build 
+
 > cmake .. && make djiosdk-core && sudo make install djiosdk-core
 
 # Which version to use?
