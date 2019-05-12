@@ -1,5 +1,6 @@
 # How to access the manifold?
 IP address of the Manifold on DJI M600 192.168.1.100 so if you connect your computer to the router on DJI M600, you can set your ip as 192.168.1.110 and make an ssh connection to manifold by running the command below:
+
 ssh ubuntu@192.168.1.100
 
 # Why manifold is not at the upper side of the M600?
