@@ -14,7 +14,7 @@ Because manifold affects GPS sensors badly.
 > cmake .. && make djiosdk-core && sudo make install djiosdk-core
 
 # Which version to use?
-It was not possible to use RTK GPS with Version 3.7 so I used Version (TO DO)
+It was not possible to use RTK GPS with Version 3.7 so I used Version 3.6
 
 
 # How to use DJI with ROS?
