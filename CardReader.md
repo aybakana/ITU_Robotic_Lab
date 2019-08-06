@@ -1,4 +1,4 @@
-Door Card Reader Program
+Card Reader Program
 
 https://docs.google.com/uc?id=0B1Mku4ANwV_YbWtsLWFBT0FxbEk&export=download
 
