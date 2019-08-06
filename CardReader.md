@@ -1,6 +1,12 @@
 Card Reader Program
 
+Download Links:
+
 https://docs.google.com/uc?id=0B1Mku4ANwV_YbWtsLWFBT0FxbEk&export=download
+
+OR
+
+https://mega.nz/#!UIY20YxR!_8E58gEdxVeOOpg4bKtTZHHmpWLYyo8InT3inRHa3kc
 
 - After you download, you need to set your IP to 160.75.23.* and default gateway to 160.75.23.254.
 - Add new device with Device IP address of 160.75.23.1. Device number is not important. Port is 4370. 
