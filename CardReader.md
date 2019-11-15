@@ -12,6 +12,8 @@ https://mega.nz/#!UIY20YxR!_8E58gEdxVeOOpg4bKtTZHHmpWLYyo8InT3inRHa3kc
 
 https://pureinfotech.com/set-static-ip-address-windows-10/
 
+Only if the card reader device is not added already:
+
 - Add new device with Device IP address of 160.75.23.1. Device number is not important. Port is 4370. 
 
 
